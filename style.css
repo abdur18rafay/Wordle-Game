@@ -7,8 +7,8 @@
 }
 
 #dark{
-    width:80px;
-    border-radius: 13px;
+    width:60px;
+    border-radius: 30px;
 
     color: black;
     background-color: lightgreen;
@@ -26,12 +26,12 @@
 
     position: absolute;
     top:13%;
-    right:43%;
+    right:35%;
 }
 
 #bright{
-    width:8s0px;
-    border-radius: 13px;
+    width:60px;
+    border-radius: 30px;
     color: white;
     background-color:lightseagreen;
     display: inline-block;
@@ -56,7 +56,7 @@
     color: green;
     font-family: cursive;
     font-size: 46px;
-    font-weight: bold;
+    font-weight:solid bold;
     letter-spacing: 2px;
    text-decoration: underline;
 }
@@ -68,6 +68,8 @@
     margin-top: 3px;
     display: flex;
     flex-wrap: wrap;
+    border: 2px solid goldenrod;
+    padding: 10px 10px 10px 13px;
 }
 
 .tile {
@@ -78,7 +80,7 @@
     margin: 2.5px;
 
     /* Text */
-    color: indigo;
+    color: blue;
     font-size: 36px;
     font-weight: bold;
     display: flex;
