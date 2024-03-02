@@ -174,7 +174,6 @@ body {
 #answer {
     color: red;
     position: absolute;
-<<<<<<< HEAD
     left: 70%;
     bottom: 69%;
     font-size: 50px;
@@ -183,8 +182,3 @@ body {
     background-color: rgba(255, 255, 255, 0.7);
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
 }
-=======
-    left:43%;
-    bottom:-1%;
-}
->>>>>>> 4ef5478a47747533513dd87d8799f52aa19d735b
