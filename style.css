@@ -1,5 +1,4 @@
 #disp {
-    background-color: white;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
 
@@ -26,7 +25,7 @@
 
     position: absolute;
     top:13%;
-    right:35%;
+    right:30%;
 }
 
 #bright{
@@ -47,7 +46,7 @@
 
     position: absolute;
     top:13%;
-    left:43%;
+    left:30%;
 }
 
 
@@ -70,6 +69,7 @@
     flex-wrap: wrap;
     border: 2px solid goldenrod;
     padding: 10px 10px 10px 13px;
+    background-color: white;
 }
 
 .tile {
@@ -148,5 +148,5 @@
 
     position: absolute;
     left:43%;
-    bottom:-2%;
+    bottom:-7%;
 }
