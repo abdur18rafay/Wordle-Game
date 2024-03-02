@@ -7,7 +7,6 @@
 
 #dark{
     border-radius: 30px;
-
     color: black;
     background-color: lightgreen;
     display: inline-block;
@@ -55,7 +54,7 @@
     font-size: 46px;
     font-weight:solid bold;
     letter-spacing: 2px;
-   text-decoration: underline;
+   text-decoration:6px soild underline;
 }
 
 #board {
@@ -146,5 +145,5 @@
 
     position: absolute;
     left:45%;
-    bottom:-2%;
+    bottom:-4%;
 }
