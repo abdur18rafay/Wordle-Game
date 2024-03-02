@@ -13,17 +13,11 @@ body {
     margin-bottom: 50px;
 }
 
-<<<<<<< HEAD
 #dark,
 #bright {
     width: 60px;
     border-radius: 30px;
     color: rgba(255, 255, 255, 0.904);
-=======
-#dark{
-    border-radius: 30px;
-    color: black;
->>>>>>> 4ef5478a47747533513dd87d8799f52aa19d735b
     background-color: lightgreen;
     display: inline-block;
     transition: 0.3s;
@@ -40,30 +34,9 @@ body {
     right: 30%;
 }
 
-<<<<<<< HEAD
 #bright {
     background-color: lightseagreen;
     left: 30%;
-=======
-#bright{
-    border-radius: 30px;
-    color: white;
-    background-color:lightseagreen;
-    display: inline-block;
-    -webkit-transition: 0.3s;
-    -moz-transition: 0.3s;
-    -o-transition: 0.3s;
-    transition: 0.3s;
-    font-family: sans-serif;
-    font-weight: 800;
-    font-size: .85em;
-    text-transform: uppercase;
-    text-align: center;
-
-    position: absolute;
-    top:13%;
-    left:30%;
->>>>>>> 4ef5478a47747533513dd87d8799f52aa19d735b
 }
 
 #title {
@@ -72,13 +45,9 @@ body {
     font-size: 46px;
     font-weight: bold;
     letter-spacing: 2px;
-<<<<<<< HEAD
     text-decoration: underline;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
     ;
-=======
-   text-decoration:6px soild underline;
->>>>>>> 4ef5478a47747533513dd87d8799f52aa19d735b
 }
 
 #board {
