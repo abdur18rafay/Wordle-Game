@@ -6,7 +6,6 @@
 }
 
 #dark{
-    width:60px;
     border-radius: 30px;
 
     color: black;
@@ -29,7 +28,6 @@
 }
 
 #bright{
-    width:60px;
     border-radius: 30px;
     color: white;
     background-color:lightseagreen;
@@ -147,6 +145,6 @@
     color: red;
 
     position: absolute;
-    left:43%;
-    bottom:-5%;
+    left:45%;
+    bottom:-2%;
 }
